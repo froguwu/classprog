@@ -1,4 +1,5 @@
-#Decisiones - IF
+##Decisiones - IF
+
 Esta estructura es la forma mas basica de control de flujo de un algoritmo. Esta condicion le dice al programa que ejecute ciertas operaciones **solo** si cierta condicion se cumple. 
 
 Esta estructura tambien permite el caso **else**, donde si ademas del primer bloque de codigo, se cuenta con un segundo bloque que solo se ejectuta si la condicion inicial es falsa.

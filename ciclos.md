@@ -1,5 +1,5 @@
 
-#Ciclos
+##Ciclos
 
 Los ciclos, son una manera de iterar sobre un grupo de operaciones de manera controlada. 
 
@@ -98,7 +98,7 @@ El ciclo do-while es una variacion del ciclo while, donde la condicion se verifi
 O en diagrama de flujo, de la siguiente manera:
 ![dowhile-diagrama](https://i.ibb.co/xqWg9GY/image.png)
 
-El flujo de un ciclo while es el siguiente:
+El flujo de un ciclo do-while es el siguiente:
 1.  Se realizan todas las operaciones dentro del ciclo.
 2.  Se verifica la condicion; Si resulta ser **true**, se continua con los pasos, si resulta ser **false** se termina el ciclo.
 3.  Se regresa al paso 1.
