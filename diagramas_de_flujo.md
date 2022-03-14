@@ -38,3 +38,5 @@ Se utilizan comillas **""**, y se utilizara el signo **+** para unir texto estat
 Este simbolo se utiliza para mostrar un punto de decision en el algoritmo, dentro de este simbolo se escribe una condicion, y dependiendo del resultado de esta, el diagrama seguira por el camino izquierdo o derecho.
 
 ![Decision](https://i.ibb.co/bm7sdX9/diagram-desition.png)
+
+En los diagramas de flujo, se asume que la salida de la derecha sera la salida **TRUE**, y la salida de la izquierda sera **FALSE**.
