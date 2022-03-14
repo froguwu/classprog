@@ -10,5 +10,7 @@ Utilizare esta pagina para escribirles informacion y las notas de las clases que
 ###### Links
 
 *   [Diagramas de flujo](./diagramas_de_flujo). 
-*   [Operadores Aritmeticos, Unarios y de Relacion](./operadores_aritmeticos).
+*   [Operadores de Asignacion, Aritmeticos, Unarios y de Relacion](./operadores).
 *   [Operadores Logicos](./operadores_logicos).
+*   [Decisiones](./decisiones).
+*   [Ciclos For, While y Do-while](./ciclos).
