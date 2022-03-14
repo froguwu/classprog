@@ -21,10 +21,12 @@ La expresion IF se expresa de la siguiente manera:
 O en diagrama de flujo, de la siguiente manera:
 
 **if-then**
-![if-then-diagrama](https://i.ibb.co/FwRGf6R/image.png)
-**if-else**
-![if-else-diagrama](https://i.ibb.co/nm9Nd0j/image.png)
 
+![if-then-diagrama](https://i.ibb.co/FwRGf6R/image.png)
+
+**if-else**
+
+![if-else-diagrama](https://i.ibb.co/nm9Nd0j/image.png)
 
 #####Ejemplo: 
 Pedir un numero. Si el numero es mayor o igual a 60, imprimir *aprobado*, de lo contrario, imprimir *reprobado*.
@@ -39,4 +41,4 @@ Pedir un numero. Si el numero es mayor o igual a 60, imprimir *aprobado*, de lo 
     }
 ```
 **Diagrama de flujo**
-![for-ejemplo-1](https://i.ibb.co/Y2jtyhx/if.png)
+![if-ejemplo-1](https://i.ibb.co/YPcvkYX/image.png)
