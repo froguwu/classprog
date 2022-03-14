@@ -37,11 +37,11 @@ Existe una manera de combinar los operadores aritmeticos con el operador de asig
 
 |    Operador    |    Ejemplo |  Equivalente|  
 |:---------------|:-----------|-------------|
-|       +=       |     a+=b   |  a = a + b  | 
-|       -=       |     a-=b   |  a = a - b  | 
-|       *=       |     a\*=b  |  a = a \* b  | 
-|       /=       |     a/=b   |  a = a / b  | 
-|       %=       |     a%=b   |  a = a % b  | 
+|       +=       |   a += b   |  a = a + b  | 
+|       -=       |   a -= b   |  a = a - b  | 
+|       *=       |   a \*= b  |  a = a \* b  | 
+|       /=       |   a /= b   |  a = a / b  | 
+|       %=       |   a %= b   |  a = a % b  | 
 
 
 ## Operadores Unario
