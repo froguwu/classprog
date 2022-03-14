@@ -9,7 +9,6 @@ Utilizare esta pagina para escribirles informacion y las notas de las clases que
 
 ###### Links
 
-[Diagramas de flujo](./diagramas_de_flujo).
-[Operadores Aritmeticos, Unarios y de Relacion](./operadores_aritmeticos).
-[Operadores Logicos](./operadores_logicos).
-
+*   [Diagramas de flujo](./diagramas_de_flujo). 
+*   [Operadores Aritmeticos, Unarios y de Relacion](./operadores_aritmeticos).
+*   [Operadores Logicos](./operadores_logicos).

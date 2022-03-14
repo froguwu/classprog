@@ -1,14 +1,4 @@
 
-## Operador de Asignacion
-Uno de los operadores mas comunes, es el simple operador de asignacion **=**. Este operador asigna el valor a su derecha, al operando a su izquierda.
-
-```java
-int a = 15; //El valor 15 se le asigna a la variable a
-int b = a; //El valor de a (15), se le asigna a la variable b
-int c = a + b; //El valor de el resultado de a + b (15 + 15), se le asigna a la variable C
-```
-Es importante notar que los operados a la derecha no son afectados por este operador. El valor a la izquierda, debe ser una **variable** y no puede contener una operacion de ese lado.
-
 ## Operadores Aritmeticos
 Los operadores aritmeticos realizan operaciones aritmeticas con operandos, estos son los mismos utilizados en matematicas. Uno de los simbolos que puede ser nuevo para ti, es el operador **%**, el cual regresa el residuo de una division.
 
@@ -32,6 +22,27 @@ c = a / b; // c = 15 / 2 = 7
 c = a % b; // c = 15 % 2 = 1
 ```
 Es importante notar que estos operadores **requieren** de dos operandos para funcionar. 
+
+## Operador de Asignacion
+Uno de los operadores mas comunes, es el simple operador de asignacion **=**. Este operador asigna el valor a su derecha, al operando a su izquierda.
+
+```java
+int a = 15; //El valor 15 se le asigna a la variable a
+int b = a; //El valor de a (15), se le asigna a la variable b
+int c = a + b; //El valor de el resultado de a + b (15 + 15), se le asigna a la variable C
+```
+Es importante notar que los operados a la derecha no son afectados por este operador. El valor a la izquierda, debe ser una **variable** y no puede contener una operacion de ese lado.
+
+Existe una manera de combinar los operadores aritmeticos con el operador de asignacion para acortar las expresiones.
+
+|    Operador    |    Ejemplo |  Equivalente|  
+|:---------------|:-----------|-------------|
+|       +=       |     a+=b   |  a = a + b  | 
+|       -=       |     a-=b   |  a = a - b  | 
+|       *=       |     a\*=b  |  a = a \* b  | 
+|       /=       |     a/=b   |  a = a / b  | 
+|       %=       |     a%=b   |  a = a % b  | 
+
 
 ## Operadores Unario
 Estos operadores solo requieren de un operando, y realizan varias operaciones distintas
